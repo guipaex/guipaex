@@ -1,25 +1,13 @@
-<center>
 <h1 align="center"><b> Hello, there! 👋
 
 Welcome to my GitHub</b></h1>
 
+<p align="center">
+    I'm a Designer entering in the world of developing.<br>
+    Here, you can see my evolution and my projects
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guipaex&layout=compact&theme=dark&card_width=800)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+<br>
 
-<!--
-**guipaex/guipaex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-</center>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guipaex&layout=compact&theme=dark&card_width=550)](https://github.com/anuraghazra/github-readme-stats)
