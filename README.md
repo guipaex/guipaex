@@ -4,7 +4,8 @@ Welcome to my GitHub</b></h1>
 
 <br><br>
 <h2>
-   <img src="https://em-content.zobj.net/source/microsoft-teams/337/man-technologist_1f468-200d-1f4bb.png" width = 25px> Sou Desenvolvedor Full Stack e entusiasta de Design.<br>
+
+   <img src="https://em-content.zobj.net/source/microsoft-teams/337/man-technologist_1f468-200d-1f4bb.png" width = 25px> I'm a Full Stack developer and design enthusiastic<br>
 </h2>
 
 <br>
@@ -31,7 +32,7 @@ Welcome to my GitHub</b></h1>
 
   <br>
 
-<h2> <img width=20px src="https://em-content.zobj.net/source/microsoft-teams/337/eyes_1f440.png"> Você pode me encontrar também aqui:</h2>
+<h2> <img width=20px src="https://em-content.zobj.net/source/microsoft-teams/337/eyes_1f440.png"> You can find me here:</h2>
 
 <br>
 <a href="https://www.linkedin.com/in/guilherme-paes/" target="_blank">
