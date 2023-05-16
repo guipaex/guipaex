@@ -5,7 +5,7 @@ Esse é meu GitHub</b></h1>
 <br><br>
 <h2>
 
-   <img src="https://em-content.zobj.net/source/microsoft-teams/337/man-technologist_1f468-200d-1f4bb.png" width = 25px> Sou desenvolvedor FullStack e participante do Programa Desenvolve, do Grupo Boticário<br>
+   <img src="https://em-content.zobj.net/source/microsoft-teams/337/man-technologist_1f468-200d-1f4bb.png" width = 25px> Sou desenvolvedor FullStack e participante do Programa Desenvolve, do Grupo Boticário.<br>
 </h2>
 
 <br>
