@@ -1,16 +1,16 @@
-<h1 align="center"> <b> Hello, there!<img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_medium-skin-tone_1f44b-1f3fd_1f3fd.png" width=50px></img>
+<h1 align="center"> <b> Olá!<img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_medium-skin-tone_1f44b-1f3fd_1f3fd.png" width=50px></img>
 
-Welcome to my GitHub</b></h1>
+Esse é meu GitHub</b></h1>
 
 <br><br>
 <h2>
 
-   <img src="https://em-content.zobj.net/source/microsoft-teams/337/man-technologist_1f468-200d-1f4bb.png" width = 25px> I'm a Full Stack developer and design enthusiastic<br>
+   <img src="https://em-content.zobj.net/source/microsoft-teams/337/man-technologist_1f468-200d-1f4bb.png" width = 25px> Sou desenvolvedor FullStack e participante do Programa Desenvolve, do Grupo Boticário<br>
 </h2>
 
 <br>
 
-<h2> <img width=20px src = "https://em-content.zobj.net/source/microsoft-teams/337/star-struck_1f929.png"> Techs</h2>
+<h2> <img width=20px src = "https://em-content.zobj.net/source/microsoft-teams/337/star-struck_1f929.png"> Tecnologias que estou familiarizado</h2>
 
 - <img width=20px src="https://em-content.zobj.net/source/microsoft-teams/337/globe-with-meridians_1f310.png"> &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -32,14 +32,10 @@ Welcome to my GitHub</b></h1>
 
   <br>
 
-<h2> <img width=20px src="https://em-content.zobj.net/source/microsoft-teams/337/eyes_1f440.png"> You can find me here:</h2>
+<h2> <img width=20px src="https://em-content.zobj.net/source/microsoft-teams/337/eyes_1f440.png"> Entre em contato:</h2>
 
 <br>
 <a href="https://www.linkedin.com/in/guilherme-paes/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href="https://instagram.com/guipaex" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:contact@guipaes.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
 <br><br>
