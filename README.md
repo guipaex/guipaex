@@ -5,9 +5,9 @@ Esse é meu GitHub</b></h1>
 <br><br>
 <h2>
 
-   <img src="https://em-content.zobj.net/source/microsoft-teams/337/man-technologist_1f468-200d-1f4bb.png" width = 25px> Sou desenvolvedor FullStack e participante do Programa Desenvolve, do Grupo Boticário.<br>
+   <img src="https://em-content.zobj.net/source/microsoft-teams/337/man-technologist_1f468-200d-1f4bb.png" width = 25px> Sou desenvolvedor FullStack, aluno do Programa Desenvolve, do Grupo Boticário.<br>
 </h2>
-
+  <center> <a href='https://portfolio-em-react-gamma.vercel.app'><h3>Clique aqui para ver meu Portfolio</h3><a> </center>
 <br>
 
 <h2> <img width=20px src = "https://em-content.zobj.net/source/microsoft-teams/337/star-struck_1f929.png"> Tecnologias que estou familiarizado</h2>
@@ -16,8 +16,11 @@ Esse é meu GitHub</b></h1>
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  <!-- ![Typescript](https://img.shields.io/badge/-typescript-333333?style=flat&logo=typescript)
-  ![React](https://img.shields.io/badge/-react-333333?style=flat&logo=react)  -->
+  ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=sass)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![React](https://img.shields.io/badge/-react-333333?style=flat&logo=react)
 
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
@@ -36,6 +39,7 @@ Esse é meu GitHub</b></h1>
 
 <br>
 <a href="https://www.linkedin.com/in/guilherme-paes/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="mailto:guipaex@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <br><br>
