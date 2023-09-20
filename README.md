@@ -1,45 +1,33 @@
-<h1 align="center"> <b> Olá!<img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_medium-skin-tone_1f44b-1f3fd_1f3fd.png" width=50px></img>
+<center>
+<h1><b> Hello, there!<img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_medium-skin-tone_1f44b-1f3fd_1f3fd.png" width=50px>
+</img>
+<br></b></h1>
 
-Esse é meu GitHub</b></h1>
+## I am a designer and web developer, seeking new challenges where I can grow both professionally and personally. <br> <br> [Click Here to see my portfolio](https://guipaes.com) <br> <br>
 
-<br><br>
-<h2>
 
-   <img src="https://em-content.zobj.net/source/microsoft-teams/337/man-technologist_1f468-200d-1f4bb.png" width = 25px> Sou desenvolvedor FullStack, aluno do Programa Desenvolve, do Grupo Boticário.<br>
-</h2>
-  <center> <a href='https://portfolio-em-react-gamma.vercel.app'><h3>Clique aqui para ver meu Portfolio</h3><a> </center>
-<br>
+  <div style=" display: flex; justify-content: space-between; margin: 5rem auto;"><br>
 
-<h2> <img width=20px src = "https://em-content.zobj.net/source/microsoft-teams/337/star-struck_1f929.png"> Tecnologias que estou familiarizado</h2>
+  <img alt="React Logo" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img alt="JavaScript Logo" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img alt="TypeScript Logo" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img alt="SASS Logo" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+  <img alt="HTML5 Logo"  width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="CSS3 Logo" width="50"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="Nodejs Logo"  width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img alt="MySQL Logo"  width="50" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" height="35px"/>
+  <img alt="Git Logo" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  
+</div>
 
-- <img width=20px src="https://em-content.zobj.net/source/microsoft-teams/337/globe-with-meridians_1f310.png"> &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=sass)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-  ![React](https://img.shields.io/badge/-react-333333?style=flat&logo=react)
-
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-- 🖥 &nbsp;
-    ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
-    ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-    ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
-    ![After Effects](https://img.shields.io/badge/-After_Effects-333333?style=flat&logo=adobe-after-effects)
-
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guipaex&layout=compact&langs_count=6&theme=github_dark&card_width=450"/>
   <br>
 
-<h2> <img width=20px src="https://em-content.zobj.net/source/microsoft-teams/337/eyes_1f440.png"> Entre em contato:</h2>
+### <img width=20px src="https://em-content.zobj.net/source/microsoft-teams/337/eyes_1f440.png"> Entre em contato:<br>
 
-<br>
 <a href="https://www.linkedin.com/in/guilherme-paes/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="mailto:guipaex@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <br><br>
+</center>
