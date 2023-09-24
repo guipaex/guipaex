@@ -3,7 +3,7 @@
 </img>
 <br></b></h1>
 
-## I am a designer and web developer, seeking new challenges where I can grow both professionally and personally. <br> <br> [Click Here to see my portfolio](https://guipaes.com) <br> <br>
+<h2> I am a designer and web developer, seeking new challenges where I can grow both professionally and personally.</h2> <br> <br> [Click Here to see my portfolio](https://guipaes.com) <br> <br>
 
 
   <div style=" display: flex; justify-content: space-between; margin: 5rem auto;"><br>
