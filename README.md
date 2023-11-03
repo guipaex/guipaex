@@ -7,11 +7,10 @@
 [![Gmail Badge](https://img.shields.io/badge/-guipaex@gmail.com-1a1a1a?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:guipaex@gmail.com)](mailto:guipaex@gmail.com)
 [![Personal Website](https://img.shields.io/badge/-Personal%20Website-1a1a1a?style=for-the-badge&logo=react&logoColor=FFF&link=https://guipaes.com&height=500)](http://guipaes.com)
 
-### My name is Guilherme Paes. I have been working as a designer since 2017, and since 2022, I have been learning about frontend development, seeking to combine my experience to create attractive and accessible designs for a better web.
-
-<br>
-
-These are some of technologies that I already learned:
+<p style="font-size:1.3rem; font-weight: 600; font-family: 'Sora', sans-serif; line-height: normal">My name is Guilherme Paes. I have been working as a designer since 2017, and since 2022, I have been learning about frontend development, seeking to combine my experience to create attractive and accessible designs for a better web.
+<br><br>
+These are some of technologies that I've already learned:
+</p>
 
 <div style='max-width:600px'>
 
@@ -32,6 +31,4 @@ These are some of technologies that I already learned:
 ![React](https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=black)
 
 <div>
-
-<!-- <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guipaex&layout=compact&langs_count=6&theme=github_dark&card_width=500"/> -->
 </div>
