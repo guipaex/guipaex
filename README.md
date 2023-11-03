@@ -1,10 +1,4 @@
-<style>
-  @import url('https://fonts.googleapis.com/css2?family=Sora:wght@500&display=swap');
-
-  p{
-    font-size:1.3rem; font-weight: 600; font-family: 'Sora', sans-serif; line-height: normal
-  }
-</style>
+<link href="./style.css" rel="stylesheet"></link>
 
 <img src="coverimg.png" width=100% alt="Dark grey background banner, in the right corner a light grey logo of Guilherme Paes. In the middle in Brazilizan Portuguese: 'Welcome! I am Guilherme Paes, frontend developer and designer.'"/></br>
 
