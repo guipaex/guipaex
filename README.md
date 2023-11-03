@@ -1,3 +1,11 @@
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Sora:wght@500&display=swap');
+
+  p{
+    font-size:1.3rem; font-weight: 600; font-family: 'Sora', sans-serif; line-height: normal
+  }
+</style>
+
 <img src="coverimg.png" width=100% alt="Dark grey background banner, in the right corner a light grey logo of Guilherme Paes. In the middle in Brazilizan Portuguese: 'Welcome! I am Guilherme Paes, frontend developer and designer.'"/></br>
 
 <div align='center'>
@@ -7,7 +15,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-guipaex@gmail.com-1a1a1a?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:guipaex@gmail.com)](mailto:guipaex@gmail.com)
 [![Personal Website](https://img.shields.io/badge/-Personal%20Website-1a1a1a?style=for-the-badge&logo=react&logoColor=FFF&link=https://guipaes.com&height=500)](http://guipaes.com)
 
-<p style="font-size:1.3rem; font-weight: 600; font-family: 'Sora', sans-serif; line-height: normal">My name is Guilherme Paes. I have been working as a designer since 2017, and since 2022, I have been learning about frontend development, seeking to combine my experience to create attractive and accessible designs for a better web.
+<p>My name is Guilherme Paes. I have been working as a designer since 2017, and since 2022, I have been learning about frontend development, seeking to combine my experience to create attractive and accessible designs for a better web.
 <br><br>
 These are some of technologies that I've already learned:
 </p>
