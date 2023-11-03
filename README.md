@@ -1,33 +1,37 @@
-<center>
-<h1><b> Hello, there!<img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_medium-skin-tone_1f44b-1f3fd_1f3fd.png" width=50px>
-</img>
-<br></b></h1>
+<img src="coverimg.png" width=100% alt="Dark grey background banner, in the right corner a light grey logo of Guilherme Paes. In the middle in Brazilizan Portuguese: 'Welcome! I am Guilherme Paes, frontend developer and designer.'"/></br>
 
-<h3> I am a designer and web developer, seeking new challenges where I can grow both professionally and personally.</h3> <br> <br> <a href="https://guipaes.com">Click Here to see my portfolio</a> <br> <br>
+<div align='center'>
 
+[![Github Badge](https://img.shields.io/badge/-Github-1a1a1a?style=for-the-badge&logo=Github&logoColor=FFF&link=https://github.com/guipaex)](https://github.com/guipaex)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-1a1a1a?style=for-the-badge&logo=Linkedin&logoColor=FFF&link=https://www.linkedin.com/in/guilherme-paes/)](https://www.linkedin.com/in/guilherme-paes/)
+[![Gmail Badge](https://img.shields.io/badge/-guipaex@gmail.com-1a1a1a?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:guipaex@gmail.com)](mailto:guipaex@gmail.com)
+[![Personal Website](https://img.shields.io/badge/-Personal%20Website-1a1a1a?style=for-the-badge&logo=react&logoColor=FFF&link=https://guipaes.com&height=500)](http://guipaes.com)
 
-  <div style=" display: flex; justify-content: space-between; margin: 5rem auto;"><br>
+### My name is Guilherme Paes. I have been working as a designer since 2017, and since 2022, I have been learning about frontend development, seeking to combine my experience to create attractive and accessible designs for a better web.
 
-  <img alt="React Logo" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img alt="JavaScript Logo" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img alt="TypeScript Logo" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img alt="SASS Logo" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-  <img alt="HTML5 Logo"  width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="CSS3 Logo" width="50"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="Nodejs Logo"  width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img alt="MySQL Logo"  width="50" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" height="35px"/>
-  <img alt="Git Logo" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  
+<br>
+
+These are some of technologies that I already learned:
+
+<div style='max-width:600px'>
+
+![React](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
+![React](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
+![React](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white)
+![React](https://img.shields.io/badge/styledcomponents-DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white)
+![React](https://img.shields.io/badge/CSS%20Modules-000000.svg?style=for-the-badge&logo=CSS-Modules&logoColor=white)
+![React](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
+![React](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
+![React](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
+![React](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
+![React](https://img.shields.io/badge/Angular-DD0031.svg?style=for-the-badge&logo=Angular&logoColor=white)
+![React](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white)
+![React](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
+![React](https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=black)
+
+<div>
+
+<!-- <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guipaex&layout=compact&langs_count=6&theme=github_dark&card_width=500"/> -->
 </div>
-
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guipaex&layout=compact&langs_count=6&theme=github_dark&card_width=450"/>
-  <br>
-
-### <img width=20px src="https://em-content.zobj.net/source/microsoft-teams/337/eyes_1f440.png"> Entre em contato:<br>
-
-<a href="https://www.linkedin.com/in/guilherme-paes/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="mailto:guipaex@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<br><br>
-</center>
