@@ -7,7 +7,11 @@
 [![Gmail Badge](https://img.shields.io/badge/-guipaex@gmail.com-1a1a1a?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:guipaex@gmail.com)](mailto:guipaex@gmail.com)
 [![Personal Website](https://img.shields.io/badge/-Personal%20Website-1a1a1a?style=for-the-badge&logo=react&logoColor=FFF&link=https://guipaes.com&height=500)](http://guipaes.com)
 
-My name is Guilherme Paes. I have been working as a designer since 2017, and since 2022, I have been learning about frontend development, seeking to combine my experience to create attractive and accessible designs for a better web.<br><br>
+Desenvolvedor Front-End em transição de carreira (ex-Diretor de Arte), combinando proficiência em 
+React, Next.js e TypeScript com uma sólida especialização em Design de Experiência (UI/UX). Meu 
+diferencial é a capacidade de construir interfaces responsivas, acessíveis e pixel-perfect a partir de 
+protótipos complexos no Figma. Busco atuar em projetos que exijam uma visão holística de produto e 
+excelência técnica no lado do cliente. <br><br>
 
 These are some of technologies that I've already learned:
 
